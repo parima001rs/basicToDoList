@@ -159,4 +159,3 @@ app.listen(port, function(){
     console.log("Server has started successfully.");
 });
 
-//Heroku app link : https://still-brushlands-68461.herokuapp.com/
